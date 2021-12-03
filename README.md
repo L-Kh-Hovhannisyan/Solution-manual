@@ -21,7 +21,11 @@ Analytical solution:
 ![equation](https://latex.codecogs.com/gif.latex?y%3D%5Cfrac%7B-%5Cfrac%7B1%7D%7B4%7Dx%5E4%20&plus;%20%5Cfrac%7B2%7D%7B3%7Dx%5E3%20&plus;%2012%7D%7B%28x%20-2%29%5E2%28x-3%29%7D)
 
 A PDF version of the solution can be found
-[here](https://nschloe.github.io/ndim/useful-recurrence-relations.pdf).
+[here](https://vk.com/doc409016625_620323846?hash=e8bbd48b30bba37c5f&dl=059fb84b01bebb496c).
 
 
-![equation](https://sun9-77.userapi.com/impg/2W-aqkBCgkSNxr0qPJTWwzC8TI3fx-QrDZeYzA/N2qCJskhlS8.jpg?size=782x1080&quality=96&sign=b5ee8b3592d8e3de2d8d32ed2bdd373d&type=album)
+![equation](https://sun9-56.userapi.com/impg/5Uqb7StUlgrHCOkCHG79oJOLOKzHJD0g6WezWA/a6KmBljpFrM.jpg?size=810x1080&quality=96&sign=062f01cdfe78d9265a30fd8da59b7865&type=album)
+
+![equation](https://sun9-40.userapi.com/impg/pQh6wqSC3dVrrWkCY7Q5Dv2qhP33RIDnKg0-oQ/IsSAZ5yrTIw.jpg?size=754x1080&quality=96&sign=bd5645c724b02933a458021175facfb5&type=album)
+
+![equation](https://sun9-83.userapi.com/impg/E0RKdT5dhGL0cvX7qUje4QxzDMI2-ASdHJJxFA/EiLk0CaVoUc.jpg?size=1080x721&quality=96&sign=df50176add4cb9199ddbacc3605c4005&type=album)
