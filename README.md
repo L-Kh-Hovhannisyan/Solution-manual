@@ -29,3 +29,9 @@ A PDF version of the solution can be found
 ![equation](https://sun9-40.userapi.com/impg/pQh6wqSC3dVrrWkCY7Q5Dv2qhP33RIDnKg0-oQ/IsSAZ5yrTIw.jpg?size=754x1080&quality=96&sign=bd5645c724b02933a458021175facfb5&type=album)
 
 ![equation](https://sun9-83.userapi.com/impg/E0RKdT5dhGL0cvX7qUje4QxzDMI2-ASdHJJxFA/EiLk0CaVoUc.jpg?size=1080x721&quality=96&sign=df50176add4cb9199ddbacc3605c4005&type=album)
+
+## All results
+![equation](https://psv4.userapi.com/c536436/u409016625/docs/d27/beba7cab986a/Figure_1.png?extra=xzdGMsh4dBXp5yLFAaNnh5R2ydVrKKfkwSLcHkkB2BFxu7EUSPyW68smWokTKVS5S4EFyKnhv2k886DFg8O62RpBBnap0k1uWrl1r__jLJC0dOtQFnoV-ndECV3HrqpV_Kpj4XMgJtTDA_t45XtA_BuA)
+![equation](https://psv4.userapi.com/c536436/u409016625/docs/d30/fb3a36554a23/Figure_3.png?extra=UlPUl9JSWARAmqyt9CCHDkB23YYnaQM-W_T3ZEj_Ol-w70v_yhWCStDQg_E175n8MYTBDSpLcE1Z6iSrIOGWcSziKyck-mWKo2Ve2qpH-F7g9G2toxwGh0u0qakdikIxXsLQ2_FmihOsoqetxufM_C_R)
+
+
